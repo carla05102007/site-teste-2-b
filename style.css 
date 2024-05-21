@@ -2,3 +2,6 @@ header{
     backgroud-color:
     color:black
 }
+.foto{
+    width:20% ;
+}
